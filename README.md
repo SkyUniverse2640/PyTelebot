@@ -1,25 +1,24 @@
 # TelegramBot
+PyTelebot is a bot telegram created by using module named pytelegrambotapi
+This bot is very very common features cause this is my first program but i just push it into Github
+So ya, if the code is very suck please forgive me xD
 
-Type:
-pip install pytelegrambotapi
+## How to install?
+First, you need to install module named pytelegrambotapi
+```pip install pytelegrambotapi```
+And after that you can set your APIKEY at ```commands/dbjson/data.json```
+```
+{
+    "Token" : "Set your APIKEY Here"
+}
+```
 
-and set your ApiKey Http at commands/dbjson/data.json
-Key: Token
-Value: Set Your ApiKey Http in here
+## How do i get APIKEY?
+[READ MORE HERE](https://core.telegram.org/bots)
 
-after set your ApiKey Http, Back to your terminal
-and type:
+## How to run the programs?
+```
 python utama.py
 or
 python3 utama.py
-
-
-
-========= Credits =========
-
- Youtube: bit.ly/SkyUniverse
-Instagram: @ini.nanze
-========= Credits =========
-
-
-# PyTelebot
+```
