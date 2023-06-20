@@ -1,0 +1,8 @@
+{
+    "token": "YOUR TOKEN",
+    "start": "Welcome to SkyUniverse Bot. Type /help to know more commands ^_^",
+    "help": "1./start\n2./help\n3./howgay (name)\n4./kerangajaib (question)\n5./repeat (text)\n6./mtkfitur\n7./reportbug\n8./infobot\n9.covid19",
+    "wow": ["saya bodoh", "i'm stupid", "gw bego", "gw goblok"],
+    "jawab": ["Ya", "Tidak", "Coba tanya lagi", "Tentu saja", "Sudah pasti", "Tidak mungkin", "Mungkin lain kali", "Tentu saja TIDAK"],
+    "Owner": "@SkyUniverse2640"
+}
